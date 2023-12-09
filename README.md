@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codinghubindia
+- 👋 Hi, I’m @Manjunatha N
 - 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...Python,javscript
+- 🌱 I’m currently learning ...Python,javscript,html,c,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
