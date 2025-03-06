@@ -45,12 +45,12 @@
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codinghubindia&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghubindia&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codinghubindia&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghubindia&layout=compact&theme=nord&hide_border=true&cache_seconds=7200" alt="Top Languages" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codinghubindia&theme=nord&hide_border=true" alt="GitHub Streak Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=codinghubindia&theme=nord&hide_border=true&mode=weekly&card_width=500" alt="GitHub Streak Stats" height="200"/>
 </div>
 
 ## 🤝 Professional Network
